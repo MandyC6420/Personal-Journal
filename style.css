@@ -1,0 +1,37 @@
+#intro {
+    background-color: aqua;
+    border: 1px solid black;
+    font-size: larger;
+    padding-top: 2%;
+    padding-right: 33%;
+    padding-bottom: 2%;
+    padding-left: 33%;
+}
+
+#Head {
+    background-color: blueviolet;
+    border: 1px solid black;
+    font-size: larger;
+    padding-top: 2%;
+    padding-right: 15%;
+    padding-bottom: 2%;
+    padding-left: 19%;
+}
+
+.Article {
+    background-color: lightgoldenrodyellow;
+    
+}
+
+.day2 {
+    background-color: lightsalmon;
+}
+
+.day3 {
+    background-color: magenta;
+}
+
+.section-header {
+    background-color: orange;
+
+}
